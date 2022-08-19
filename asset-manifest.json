@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fsd-prac-4/static/css/main.ee5d6995.chunk.css",
+    "main.js": "/fsd-prac-4/static/js/main.1eb58547.chunk.js",
+    "main.js.map": "/fsd-prac-4/static/js/main.1eb58547.chunk.js.map",
+    "runtime-main.js": "/fsd-prac-4/static/js/runtime-main.31a8cc17.js",
+    "runtime-main.js.map": "/fsd-prac-4/static/js/runtime-main.31a8cc17.js.map",
+    "static/js/2.a6507c3f.chunk.js": "/fsd-prac-4/static/js/2.a6507c3f.chunk.js",
+    "static/js/2.a6507c3f.chunk.js.map": "/fsd-prac-4/static/js/2.a6507c3f.chunk.js.map",
+    "index.html": "/fsd-prac-4/index.html",
+    "precache-manifest.203541cb51451cf7cd2e0a435ce9e2f4.js": "/fsd-prac-4/precache-manifest.203541cb51451cf7cd2e0a435ce9e2f4.js",
+    "service-worker.js": "/fsd-prac-4/service-worker.js",
+    "static/css/main.ee5d6995.chunk.css.map": "/fsd-prac-4/static/css/main.ee5d6995.chunk.css.map",
+    "static/js/2.a6507c3f.chunk.js.LICENSE.txt": "/fsd-prac-4/static/js/2.a6507c3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a8cc17.js",
+    "static/js/2.a6507c3f.chunk.js",
+    "static/css/main.ee5d6995.chunk.css",
+    "static/js/main.1eb58547.chunk.js"
+  ]
+}
